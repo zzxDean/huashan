@@ -9,7 +9,7 @@ public class HuaZai implements Serializable{
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	private String name = "华仔";
+	private String name = "华仔7777";
 
 	private String age = "666";
 
