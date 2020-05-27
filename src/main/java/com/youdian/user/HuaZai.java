@@ -9,9 +9,9 @@ public class HuaZai implements Serializable{
 	 */
 	private static final long serialVersionUID = 1L;
 	
-	private String name = "华仔7=======";
+	private String name = "月下飞天222";
 
-	private String age = "666";
+	private String age = "xsacasca ";
 
 	public String getName() {
 		return name;
